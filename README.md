@@ -1,5 +1,7 @@
 # RSPWNER
 
+(Sorry for the missing commit history; this project was copied from an old, now-deleted GitHub repository.)
+
 RSPWNER is a Rust-based AI-assisted CTF pwn assistant for binary analysis, vulnerability research, exploit planning, and pwntools exploit generation.
 
 It is designed for educational CTF challenges and authorized security research. The tool analyzes a submitted binary, builds evidence-backed vulnerability hypotheses, selects an exploitation strategy, and writes a Python exploit scaffold. When requested with `--execute`, it can also run the generated exploit and report the result.
